@@ -1,0 +1,31 @@
+.carousel-item {
+    height: 500px;
+}
+
+#services .card-header {
+    color: #DECDF5;
+    background-color: black;
+}
+
+#accordionExample .card-header {
+    color: #DECDF5;
+    background-color: black;
+}
+
+#accordionExample .card-header button {
+    color: #DECDF5;
+}
+
+.service-title {
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #656176;
+    color: white;
+    padding: 20px 0;
+}
+
+footer a {
+    color: white;
+}
