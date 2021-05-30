@@ -1,6 +1,10 @@
 .carousel-item {
     height: 500px;
 }
+.navbar-brand {
+  background-color: hsl(48, 100%, 95%)
+   ;
+}
 
 #services .card-header {
     color: #DECDF5;
