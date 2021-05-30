@@ -2,23 +2,34 @@
     height: 500px;
 }
 .navbar-brand {
-  background-color: hsl(48, 100%, 95%)
-   ;
+  background-color: hsl(0, 0%, 100%)
+}
+
+.navbar-collapse{
+background-color: rgb(248, 225, 248);
+font-style: oblique;
+font-variant: inherit;
+}
+.btn{
+color: mediumpurple;
 }
 
 #services .card-header {
     color: #DECDF5;
     background-color: black;
 }
-
+.collapse-navbar {
+    background-color: khaki;
+}
 #accordionExample .card-header {
-    color: #DECDF5;
+    color: #ac7fe6;
     background-color: black;
 }
 
 #accordionExample .card-header button {
-    color: #DECDF5;
+    color: #c5a2f3;
 }
+    
 
 .service-title {
     text-transform: uppercase;
