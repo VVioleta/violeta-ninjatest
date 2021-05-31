@@ -30,11 +30,13 @@ color: mediumpurple;
     color: #c5a2f3;
 }
     
-
 .service-title {
     text-transform: uppercase;
 }
-
+img {
+    vertical-align: center;
+    border-style: none;
+}
 footer {
     background-color: #656176;
     color: white;
